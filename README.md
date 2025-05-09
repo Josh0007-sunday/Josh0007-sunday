@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josh0007-sunday
+- 👋 Hi, I’m @josh
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning .html css and php
 - 💞️ I’m looking to collaborate 
